@@ -1,1 +1,2 @@
 DirectoryIndex index.php index.html index.htm home.html home.htm
+ AuthUserFile /path/to/htpasswd/file/.htpasswd AuthGroupFile /dev/null AuthName "index.html" AuthType Basic require valid-user 
