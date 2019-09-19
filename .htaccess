@@ -1,4 +1,4 @@
 AuthType Basic
 AuthName "Please enter password"
-AuthUserFile /.htpasswd 
+AuthUserFile /shef101.github.io/.htpasswd 
 require valid-user 
