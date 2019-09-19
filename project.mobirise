@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Shef101",
-    "currentPage": "page2.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -32,7 +32,7 @@
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.10.10",
     "siteFonts": [],
-    "uniqCompNum": 15,
+    "uniqCompNum": 17,
     "versionPublish": "4.10.10",
     "screenshot": "screenshot.png"
   },
@@ -505,11 +505,11 @@
         }
       ]
     },
-    "page1.html": {
+    "stream.html": {
       "settings": {
         "meta_descr": "Site Generator Description",
         "title": "Stream",
-        "order": 1
+        "order": 2
       },
       "components": [
         {
@@ -964,11 +964,11 @@
         }
       ]
     },
-    "page2.html": {
+    "totw.html": {
       "settings": {
         "meta_descr": "Web Generator Description",
         "title": "Track Of The Week",
-        "order": 2
+        "order": 3
       },
       "components": [
         {
