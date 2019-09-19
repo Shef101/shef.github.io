@@ -1,7 +1,4 @@
 AuthType Basic
 AuthName "Please enter password"
 AuthUserFile /.htpasswd 
-AuthGroupFile /dev/null   
 require valid-user 
-DirectoryIndex index.php index.html index.htm home.html home.htm
-
