@@ -1313,11 +1313,25 @@ section.lazy-placeholder:after {
 }
 .cid-rCx5V4rqJ8 {
   padding-top: 75px;
-  padding-bottom: 135px;
+  padding-bottom: 15px;
   background-color: #efefef;
 }
 .cid-rCx5V4rqJ8 P {
   color: #767676;
+}
+.cid-rE3YuKQjnR {
+  background: #efefef;
+  padding-top: 45px;
+  padding-bottom: 45px;
+  background: linear-gradient(0deg, #efefef, #efefef);
+}
+.cid-rE3YuKQjnR .video-block {
+  margin: auto;
+}
+@media (max-width: 768px) {
+  .cid-rE3YuKQjnR .video-block {
+    width: 100% !important;
+  }
 }
 .cid-rCxbKye5u8 .navbar {
   padding: .5rem 0;
