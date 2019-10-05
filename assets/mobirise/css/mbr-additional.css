@@ -1319,17 +1319,17 @@ section.lazy-placeholder:after {
 .cid-rCx5V4rqJ8 P {
   color: #767676;
 }
-.cid-rE3YuKQjnR {
-  background: #efefef;
-  padding-top: 45px;
-  padding-bottom: 45px;
-  background: linear-gradient(0deg, #efefef, #efefef);
+.cid-rE4ddx9h3L {
+  background: #cccccc;
+  padding-top: 0px;
+  padding-bottom: 60px;
+  background: linear-gradient(0deg, #cccccc, #efefef);
 }
-.cid-rE3YuKQjnR .video-block {
+.cid-rE4ddx9h3L .video-block {
   margin: auto;
 }
 @media (max-width: 768px) {
-  .cid-rE3YuKQjnR .video-block {
+  .cid-rE4ddx9h3L .video-block {
     width: 100% !important;
   }
 }
